@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+ruby '2.5.3'
+
+gem 'ffi'
+gem 'test-kitchen'
+gem 'kitchen-terraform'
+gem 'kitchen-inspec'
+gem 'kitchen-verifier-awspec'
+gem 'awspec'
+gem 'rake'
